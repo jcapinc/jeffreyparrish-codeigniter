@@ -1,0 +1,109 @@
+@font-face{
+	font-family:"sansthirteenblack",
+	src:url("SansThirteenBlack.ttf") format("truetype");
+}
+
+.first{
+	height:100vh;
+	background-color:#5882FA;
+}
+
+.banner{
+	width:600px;
+	position:absolute;
+	top:15vh;
+	left:50%;
+	margin-left:-300px;
+	color:white;
+	text-align:center;
+}
+
+.banner div{
+	margin:4vh 0;
+}
+
+.banner h1{
+	font-family:"impact","arial","sans";
+	font-size:5em;
+}
+.nav{
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	color:#333;
+	padding:1px 10px;
+	z-index:100;
+}
+
+.nav a{
+	color:#333;
+}
+
+.nav a:hover{
+	color:black;
+}
+
+.experience {
+	width:100%;
+	margin-bottom:20px;
+}
+
+.surfmerchants-section{
+	background-image:url('/res/images/closeup-pc-graphs.jpg');
+}
+.cadlearning-section{
+	background-image:url('/res/images/typing-with-rings.jpg');
+}
+.rovion-section{
+	background-image:url('/res/images/night-working.jpg');
+}
+.wedu-section{
+	background-image:url('/res/images/workstation.jpg');
+}
+.jcap-section{
+	background-image:url('/res/images/office.jpg');
+}
+.mcc-section{
+	background-image:url('/res/images/old-school.jpg');
+}
+.hoa-section{
+	background-image:url('/res/images/harddrive.jpg');
+}
+.desjardins-section{
+	background-image:url('/res/images/jewel.jpg');
+}
+.contact-section{
+	background-image:url('/res/images/contact.jpg');
+}
+
+
+.experience-section{
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:bottom center;
+}
+
+.page{
+	min-height:100vh;
+}
+
+.rightnav{
+	float:right;
+	margin-top:18px;
+	margin-right:5px;
+}
+
+.experience-description{
+	background-color:black;
+	background-color:rgba(255,255,255,0.8);
+	padding:10px;
+	border-radius:10px;
+}
+
+.experience-section h2{
+	background-color:rgba(255,255,255,0.8);
+	border-radius:10px;
+	padding:5px;
+	float:left;
+}
