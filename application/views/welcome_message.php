@@ -54,45 +54,191 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 			<h1>Experience</h1>
 		</div>
-		<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
-			<a href="#surfmerchants">
-				<img src="/res/images/surfmerchants2.png" class="experience" />
-			</a>
+		<div class="row experience-section">
+			<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
+				<a href="#medicus">
+					<img src="/res/images/medicus.png" class="experience" />
+				</a>
+			</div>
+			<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
+				<a href="#silvertech">
+					<img src="/res/images/silvertech.png" class="experience" />
+				</a>
+			</div>
+			<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
+				<a href="#griffin">
+					<img src="/res/images/griffin.png" class="experience" />
+				</a>
+			</div>
+			<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
+				<a href="#surfmerchants">
+					<img src="/res/images/surfmerchants2.png" class="experience" />
+				</a>
+			</div>
 		</div>
-		<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
-			<a href="#cadlearning">
-				<img src="/res/images/cadlearning.png" class="experience" />
-			</a>
+		<div class="row">
+			<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
+				<a href="#cadlearning">
+					<img src="/res/images/cadlearning.png" class="experience" />
+				</a>
+			</div>
+			<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
+				<a href="#rovion">
+					<img src="/res/images/rovion.png" class="experience" />
+				</a>
+			</div>
+			<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
+				<a href="#wedu">
+					<img src="/res/images/wedu2.png" class="experience" />
+				</a>
+			</div>
+			<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
+				<a href="#jcap">
+					<img src="/res/images/jcaplogo.png" class="experience" />
+				</a>
+			</div>
 		</div>
-		<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
-			<a href="#rovion">
-				<img src="/res/images/rovion.png" class="experience" />
-			</a>
+		<div class="row">
+			<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
+				<a href="#mcc">
+					<img src="/res/images/mcc.jpg" class="experience" />
+				</a>
+			</div>
+			<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
+				<a href="#hoa">
+					<img src="/res/images/hoa.png" class="experience" />
+				</a>
+			</div>
+			<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
+				<a href="#desjardins">
+					<img src="/res/images/desjardins.png" class="experience" />
+				</a>
+			</div>
 		</div>
-		<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
-			<a href="#wedu">
-				<img src="/res/images/wedu2.png" class="experience" />
-			</a>
+	</div>
+	<div class="row page experience-section medicus-section">
+		<div class="col-md-12 col-sm-12" style="min-height:500px;">
+			<a name="griffin" style="display:block;">&nbsp;</a>
+			<div>
+				<h2>Medicus Healthcare Solutions</h2>
+				<div class="rightnav btn-group">
+					<a class="btn btn-default" href="#top">Home</a>
+					<a class="btn btn-default" href="#experience">Experience</a>
+				</div>
+				<div style="clear:both;"></div>
+			</div>
+			<div class="experience-description col-lg-9 col-md-7 col-sm-12 col-xs-12">
+				<img class="col-lg-4 col-md-4 col-sm-5 col-xs-12" src="/res/images/Griffin-logo-2016.png" />
+				<p>
+				Medicus Healthcare Solutions is a medical recruiting company specializing in temporary (Locum Tenens) doctor postings. 
+				</p>
+				<p>
+				Medicus needed an internal tool to replace their aging internal CRM application with a newer one that would be built to be a more long term solution. The needs evolved over time and I transitioned from building PHP microservices on the backend, 
+				</p>
+				<p>
+				
+				</p>
+				<p>
+				</p>
+
+			</div>
+			<div class="experience-description col-lg-3 col-md-5 col-sm-12 col-xs-12">
+				<h3>Technologies Used</h3>
+				<ul>
+					<li>PHP</li>
+					<li>MySQL</li>
+					<li>HTML</li>
+					<li>CSS</li>
+					<li>JavaScript</li>
+					<li>JQuery</li>
+					<li>Angular.js</li>
+					<li>Adobe After Effects</li>
+					<li>Adobe Premier</li>
+					<li>Adobe Photoshop</li>
+				</ul>
+			</div>
 		</div>
-		<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
-			<a href="#jcap">
-				<img src="/res/images/jcaplogo.png" class="experience" />
-			</a>
+	</div>
+	<div class="row page experience-section silvertech-section">
+		<div class="col-md-12 col-sm-12" style="min-height:500px;">
+			<a name="silvertech" style="display:block;">&nbsp;</a>
+			<div>
+				<h2>Silvertech Inc.</h2>
+				<div class="rightnav btn-group">
+					<a class="btn btn-default" href="#top">Home</a>
+					<a class="btn btn-default" href="#experience">Experience</a>
+				</div>
+				<div style="clear:both;"></div>
+			</div>
+			<div class="experience-description col-lg-9 col-md-7 col-sm-12 col-xs-12">
+				<img class="col-lg-4 col-md-4 col-sm-5 col-xs-12" src="/res/images/silvertech 2.png" />
+				<p>
+				Silvertech is a web development and marketing agency based in Manchester, they specialize in large scale, content-managed websites for banks, hotels government agencies and other large institutions. 
+				</p>
+				<p>
+				At Silvertech I delved deeper into the frontend role and learned that aspect of my craft much more deeply. I learned each of the three major frontend technoligies, Vue.JS, angularJS and React while on this role, and got exposed to backend technologies like Sitecore and Kentico.
+				</p>
+				<p>
+				One of the major themes that became very important was Web Accessibility, WCAG and ADA compliance. I was helping to build websites for large banks and other, similar institutions, and these institutions needed to be able to substantiate to government agencies that information that was made available on their website was accessible, that means that if you are blind, colorblind, deaf, or motor-impaired that you should still be able to navigate these websites effectively.
+				</p>
+				<p>
+				I was given a short course in WCAG compliance and was successful in helping to make a major regional bank's website WCAG compliant. 
+				</p>
+			</div>
+			<div class="experience-description col-lg-3 col-md-5 col-sm-12 col-xs-12">
+				<h3>Technologies Used</h3>
+				<ul>
+					<li>HTML/Pug Templating</li>
+					<li>Sass/CSS</li>
+					<li>JavaScript/NodeJS</li>
+					<li>Angular.js</li>
+					<li>Vue.js</li>
+					<li>WCAG/ADA Compliance</li>
+				</ul>
+			</div>
 		</div>
-		<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
-			<a href="#mcc">
-				<img src="/res/images/mcc.jpg" class="experience" />
-			</a>
-		</div>
-		<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
-			<a href="#hoa">
-				<img src="/res/images/hoa.png" class="experience" />
-			</a>
-		</div>
-		<div class="col-md-3 col-lg-3 col-sm-3 col-xs-6">
-			<a href="#desjardins">
-				<img src="/res/images/desjardins.png" class="experience" />
-			</a>
+	</div>
+	<div class="row page experience-section griffin-section">
+		<div class="col-md-12 col-sm-12" style="min-height:500px;">
+			<a name="griffin" style="display:block;">&nbsp;</a>
+			<div>
+				<h2>Griffin Greenhouse Supplies</h2>
+				<div class="rightnav btn-group">
+					<a class="btn btn-default" href="#top">Home</a>
+					<a class="btn btn-default" href="#experience">Experience</a>
+				</div>
+				<div style="clear:both;"></div>
+			</div>
+			<div class="experience-description col-lg-9 col-md-7 col-sm-12 col-xs-12">
+				<img class="col-lg-4 col-md-4 col-sm-5 col-xs-12" src="/res/images/Griffin-logo-2016.png" />
+				<p>
+				I was approached by Griffin Greenhouse Supplies to become their primary in-house developer for their new e-commerce initiative.  This workplace was very unique for me because they had no previous developer or development environment.  Before I began working here they relied on external IT services entirely. 
+				</p>
+				<p>
+				I quickly found myself making crucial platform and development decisions for the company's online offerings.  Beyond this, I found myself taking on new and varied roles to meet the company's multifarious technical needs, including promotional video production, social media consulting, videography and photography, project management, catalog production, and automation.
+				</p>
+				<p>
+				I also found myself in the position to take more technical leadership than I have had at any previous job.  Without an in-house technical lead, the company's technology choices were fractured and disparate.  They lacked tools to do simple tasks like file transfers, task management and sharing, and managerial project oversight for anything more complicated than a simple sale.  While I was not given the power to make technical decisions on behalf of others, I was able to sway opinions within the company executive committees using compelling arguments for modern high-quality, high power solutions that would eventually go on to change how the company worked.
+				</p>
+				<p>
+				Overall this was a very powerful growing experience for me.  I was challenged to do work that might have been outside my comfort zone before, and it put me in better touch with the fundamentals of my trade and the nature of the platform choices that I make, and how those choices effect the people I work with in a practical way.</p>
+
+			</div>
+			<div class="experience-description col-lg-3 col-md-5 col-sm-12 col-xs-12">
+				<h3>Technologies Used</h3>
+				<ul>
+					<li>PHP</li>
+					<li>MySQL</li>
+					<li>HTML</li>
+					<li>CSS</li>
+					<li>JavaScript</li>
+					<li>JQuery</li>
+					<li>Angular.js</li>
+					<li>Adobe After Effects</li>
+					<li>Adobe Premier</li>
+					<li>Adobe Photoshop</li>
+				</ul>
+			</div>
 		</div>
 	</div>
 	<div class="row page experience-section surfmerchants-section">

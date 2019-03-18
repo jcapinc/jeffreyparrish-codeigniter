@@ -47,8 +47,12 @@
 .experience {
 	width:100%;
 	margin-bottom:20px;
+	border: 1px solid #666;
+	box-shadow: 0 0 15px -5px black;
 }
-
+.silvertech-section{
+	background-image:url('/res/images/silvertech-floor.jpg');
+}
 .surfmerchants-section{
 	background-image:url('/res/images/closeup-pc-graphs.jpg');
 }
@@ -75,6 +79,10 @@
 }
 .contact-section{
 	background-image:url('/res/images/contact.jpg');
+}
+
+.griffin-section{
+	background-image:url('/res/images/greenhouse.jpg');
 }
 
 
