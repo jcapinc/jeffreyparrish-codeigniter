@@ -50,6 +50,12 @@
 	border: 1px solid #666;
 	box-shadow: 0 0 15px -5px black;
 }
+.halo{
+	box-shadow: 0 0 10px 10px white;
+}
+.medicus-section{
+	background-image:url('/res/images/medicus-building.jpg');
+}
 .silvertech-section{
 	background-image:url('/res/images/silvertech-floor.jpg');
 }

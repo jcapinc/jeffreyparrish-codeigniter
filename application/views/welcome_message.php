@@ -33,7 +33,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<b>Web Applications Developer</b>
 	</div>
 	<div>
-		<p>PHP HTML CSS MySQL JavaScript JQuery Codeigniter</p>
+		<p>Full Stack Developer</p>
+		<p>C# PHP Vue.JS React Angular.JS SASS and more...</p>
 	</div>
 	<div>
 		<img src="/res/images/circleface2.png" />
@@ -118,7 +119,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</div>
 	<div class="row page experience-section medicus-section">
 		<div class="col-md-12 col-sm-12" style="min-height:500px;">
-			<a name="griffin" style="display:block;">&nbsp;</a>
+			<a name="medicus" style="display:block;">&nbsp;</a>
 			<div>
 				<h2>Medicus Healthcare Solutions</h2>
 				<div class="rightnav btn-group">
@@ -128,33 +129,29 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<div style="clear:both;"></div>
 			</div>
 			<div class="experience-description col-lg-9 col-md-7 col-sm-12 col-xs-12">
-				<img class="col-lg-4 col-md-4 col-sm-5 col-xs-12" src="/res/images/Griffin-logo-2016.png" />
+				<img class="halo" src="/res/images/medicus-logo-small.png" style="width:200px;float:left;margin:0 15px 5px 0;" />
 				<p>
 				Medicus Healthcare Solutions is a medical recruiting company specializing in temporary (Locum Tenens) doctor postings. 
 				</p>
 				<p>
-				Medicus needed an internal tool to replace their aging internal CRM application with a newer one that would be built to be a more long term solution. The needs evolved over time and I transitioned from building PHP microservices on the backend, 
+				Medicus needed an internal tool to replace their aging internal CRM application with a newer one that would be built to be a more long term solution. The needs evolved over time and I transitioned from building PHP microservices on the backend, to building the frontend, Vue.JS based frontend of the application, to building C# services to support data quality.
 				</p>
 				<p>
-				
+				I was very happy with my ability to shift to meet the evolving needs of the company with very little downtime. Learning these new technologies enriched my career, but I knew enough about them to begin with, just out of my own interest, that I was effective and productive with them on day one. This created a win-win situation that I am very proud of.
 				</p>
-				<p>
-				</p>
-
 			</div>
 			<div class="experience-description col-lg-3 col-md-5 col-sm-12 col-xs-12">
 				<h3>Technologies Used</h3>
 				<ul>
+					<li>Microservices</li>
+					<li>RESTful Api Development</li>
 					<li>PHP</li>
-					<li>MySQL</li>
+					<li>MariaDB</li>
 					<li>HTML</li>
-					<li>CSS</li>
+					<li>CSS/SASS</li>
 					<li>JavaScript</li>
-					<li>JQuery</li>
-					<li>Angular.js</li>
-					<li>Adobe After Effects</li>
-					<li>Adobe Premier</li>
-					<li>Adobe Photoshop</li>
+					<li>Vue.JS</li>
+					<li>C#</li>
 				</ul>
 			</div>
 		</div>
@@ -182,7 +179,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				One of the major themes that became very important was Web Accessibility, WCAG and ADA compliance. I was helping to build websites for large banks and other, similar institutions, and these institutions needed to be able to substantiate to government agencies that information that was made available on their website was accessible, that means that if you are blind, colorblind, deaf, or motor-impaired that you should still be able to navigate these websites effectively.
 				</p>
 				<p>
-				I was given a short course in WCAG compliance and was successful in helping to make a major regional bank's website WCAG compliant. 
+				I was given a course in WCAG compliance and was successful in helping to make a major regional bank's website WCAG compliant. 
 				</p>
 			</div>
 			<div class="experience-description col-lg-3 col-md-5 col-sm-12 col-xs-12">
